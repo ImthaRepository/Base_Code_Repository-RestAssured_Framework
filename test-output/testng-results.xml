@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-25T18:59:35 IST" name="Suite" finished-at="2024-07-25T18:59:45 IST" duration-ms="9421">
+    <groups>
+    </groups>
+    <test started-at="2024-07-25T18:59:35 IST" name="Test" finished-at="2024-07-25T18:59:45 IST" duration-ms="9421">
+      <class name="API_Test.Test_For_User">
+        <test-method is-config="true" signature="set_Data()[pri:0, instance:API_Test.Test_For_User@5bf0d49]" started-at="2024-07-25T18:59:36 IST" name="set_Data" finished-at="2024-07-25T18:59:36 IST" duration-ms="850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set_Data -->
+        <test-method signature="Test_Post_User()[pri:1, instance:API_Test.Test_For_User@5bf0d49]" started-at="2024-07-25T18:59:36 IST" name="Test_Post_User" finished-at="2024-07-25T18:59:40 IST" duration-ms="3178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Post_User -->
+        <test-method signature="Get_UserByName()[pri:2, instance:API_Test.Test_For_User@5bf0d49]" started-at="2024-07-25T18:59:40 IST" name="Get_UserByName" finished-at="2024-07-25T18:59:41 IST" duration-ms="1300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Get_UserByName -->
+        <test-method signature="Test_Udate_User()[pri:3, instance:API_Test.Test_For_User@5bf0d49]" started-at="2024-07-25T18:59:41 IST" name="Test_Udate_User" finished-at="2024-07-25T18:59:43 IST" duration-ms="2489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Udate_User -->
+        <test-method signature="Delete_UserByName()[pri:4, instance:API_Test.Test_For_User@5bf0d49]" started-at="2024-07-25T18:59:43 IST" name="Delete_UserByName" finished-at="2024-07-25T18:59:45 IST" duration-ms="1213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Delete_UserByName -->
+      </class> <!-- API_Test.Test_For_User -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite">
+	<listeners>
+		<listener class-name="API_Utilities.Report_Generation"/>
+	</listeners>
+  <test  name="Test">
+    <classes>
+      <class name="API_Test.Test_For_User"/>
+  <!--   <class name="API_Test.Data_Driven_Test"/>  -->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
